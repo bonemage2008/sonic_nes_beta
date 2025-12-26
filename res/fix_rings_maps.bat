@@ -1,0 +1,25 @@
+rings_map_gen.exe 0x00010 0x1A610 0x1A910 180 sonic.nes
+rings_map_gen.exe 0x00010 0x1A710 0x1AA10 174 sonic.nes
+rings_map_gen.exe 0x00010 0x1A810 0x1AB10 145 sonic.nes
+                                          
+rings_map_gen.exe 0x04010 0x1C610 0x1C910  90 sonic.nes
+rings_map_gen.exe 0x04010 0x1C710 0x1CA10 126 sonic.nes
+rings_map_gen.exe 0x04010 0x1C810 0x1CB10 126 sonic.nes
+                                          
+rings_map_gen.exe 0x08010 0x5C010 0x1E610 0x1E910 180 sonic.nes
+rings_map_gen.exe 0x08010 0x5C010 0x1E710 0x1EA10 228 sonic.nes
+rings_map_gen.exe 0x08010 0x5C010 0x1E810 0x1EB10 252 sonic.nes
+                                          
+rings_map_gen.exe 0x0C010 0x60010 0x20610 0x20910 140 sonic.nes
+rings_map_gen.exe 0x0C010 0x60010 0x20710 0x20A10 162 sonic.nes
+rings_map_gen.exe 0x0C010 0x60010 0x20810 0x20B10 250 sonic.nes
+                                          
+rings_map_gen.exe 0x10010 0x64010 0x18610 0x18910 216 sonic.nes
+rings_map_gen.exe 0x10010 0x64010 0x18710 0x18A10 216 sonic.nes
+rings_map_gen.exe 0x10010 0x64010 0x18810 0x18B10 203 sonic.nes
+
+rings_map_gen.exe 0x74010 0x68010 0x7A610 0x7A910 252 sonic.nes
+rings_map_gen.exe 0x68010 0x74010 0x70710 0x70610 252 sonic.nes
+rings_map_gen.exe 0x6C010 0x60010 0x78810 0x78B10 252 sonic.nes
+
+pause

@@ -1,0 +1,1 @@
+split.exe "sonic.nes" res.txt
